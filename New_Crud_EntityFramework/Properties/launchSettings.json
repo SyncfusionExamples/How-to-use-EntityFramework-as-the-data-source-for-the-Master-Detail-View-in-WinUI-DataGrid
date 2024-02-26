@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "New_Crud_EntityFramework (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "New_Crud_EntityFramework (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
